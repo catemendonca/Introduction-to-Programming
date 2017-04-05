@@ -1,7 +1,3 @@
-// Catarina Mendonça n43637
-// Ines Correia n43638
-// Marcia Santos n43600
-
 // 4 MÃ‰TODOS POR CONCRETIZAR
 
 public class Estado implements EstadoInterface {
