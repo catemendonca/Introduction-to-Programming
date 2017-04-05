@@ -1,7 +1,3 @@
-// Catarina Mendonça n43637
-// Ines Correia n43638
-// Marcia Santos n43600
-
 import java.io.*;
 
 public class ExecutaFase2 {
