@@ -1,6 +1,3 @@
-// Catarina Mendonça n43637
-// Ines Correia n43638
-// Marcia Santos n43600
 
 // 5 MÃ‰TODOS POR CONCRETIZAR
 
